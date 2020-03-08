@@ -172,7 +172,7 @@
             <p>
                 <small>
                     <span class="oi oi-heart"></span>
-                    <a href="https://github.com/tw-huang/breakblog" title="Written by tw.huang">GitHub</a>
+                    <a href="https://github.com/tw-huang/breakblog-ssm" title="Written by tw.huang">GitHub</a>
                 </small>
             </p>
             <p>
